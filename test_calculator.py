@@ -16,5 +16,5 @@ class TestCalculator:
     def test_multiply(self):
         assert 100 == calculator.multiply(10, 10)
 
-    def test_dels(self):
+    def test_division(self):
         assert 3 == calculator.dels(9, 3)
